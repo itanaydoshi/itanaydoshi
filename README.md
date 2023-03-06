@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itanaydoshi
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning ...C & C++ Programming
+- 🌱 I’m currently learning ...Java Programming
 - 📫 How to reach me ... tanaydoshi84@gmail.com
 
 <!---
