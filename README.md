@@ -1,10 +1,10 @@
 # 💫 About Me:
 🚀 Passionate Flutter Developer | 🎨 UI/UX Designer<br>
-✨ Expertise in Flutter app development and user-centric design<be>
-📱 Proven track record of creating captivating, intuitive mobile applications<be>
-🎯 Translating ideas into visually stunning and highly functional solutions<be>
+✨ Expertise in Flutter app development and user-centric design<br>
+📱 Proven track record of creating captivating, intuitive mobile applications<br>
+🎯 Translating ideas into visually stunning and highly functional solutions<br>
 🔍 Constantly exploring new UI/UX trends to push boundaries and elevate user engagement<br>
-🛠️ Top Skills: **Flutter, Dart, Java,**<be>
+🛠️ Top Skills: **Flutter, Dart, Java,**<br>
 📫 How to reach me **tanaydoshi84@gmail.com**<br>
 <br>
 
