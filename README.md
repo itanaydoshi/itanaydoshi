@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tanay Doshi</h1>
-<h3 align="center">🚀 Passionate Flutter Developer | 🎨 UI/UX Designer
+<h1 align="left">Hi 👋, I'm Tanay Doshi</h1>
+<h3 align="left">🚀 Passionate Flutter Developer | 🎨 UI/UX Designer
 
 ✨ Expertise in Flutter app development and user-centric design
 📱 Proven track record of creating captivating, intuitive mobile applications
